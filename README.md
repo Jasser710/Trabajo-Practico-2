@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### 4. Ejecutar el servidor
 
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 
 ### 5. Probar los endpoints
 
